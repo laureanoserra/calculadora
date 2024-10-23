@@ -35,6 +35,7 @@ function main() {
   const resultado = ejecutarOperacion(operacionParseada)
   
   console.log(resultado);
+  console.log("otro cambio");
 }
 
 main();
